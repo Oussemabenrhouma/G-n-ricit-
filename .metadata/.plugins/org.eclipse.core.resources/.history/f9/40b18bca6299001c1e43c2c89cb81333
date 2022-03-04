@@ -1,0 +1,16 @@
+
+public class test {
+
+	public static void main(String[] args) {
+		point <Integer> P1=new point<>('A',4,3);
+		point <Double> P2=new point<>('B',5,2);
+		
+		P1.toString();
+		System.out.println(P1);
+		
+		P2.toString();
+		System.out.println(P2);
+
+	}
+
+}

@@ -1,0 +1,14 @@
+
+public class test {
+
+	public static void main(String[] args) {
+		point <Integer> P1=new point();
+		point <Double> P2=new point();
+		
+		P1.toString();
+		
+		System.out.println(P1);
+
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class PointColoreNG extends point<Integer>{
+	
+	String couleur;
+	
+	public PointColoreNG(nom,abs,ord,couleur)
+	{
+		super(nom,ord,abs);
+		this.couleur=couleur;
+	}
+}

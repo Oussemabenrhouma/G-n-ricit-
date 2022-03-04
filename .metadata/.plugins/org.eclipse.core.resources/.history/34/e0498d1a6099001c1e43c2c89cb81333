@@ -1,0 +1,39 @@
+
+public class point <t> {
+	private t abs;
+	private t ord;
+	
+	
+	public t getAbs() {
+		return abs;
+	}
+
+
+	public void setAbs(t abs) {
+		this.abs = abs;
+	}
+
+
+	public t getOrd() {
+		return ord;
+	}
+
+
+	public void setOrd(t ord) {
+		this.ord = ord;
+	}
+
+
+	public point(t abs, t ord) {
+		super();
+		this.abs = abs;
+		this.ord = ord;
+	}
+
+
+	public String toString() {
+		return "point [abs=" + abs + ", ord=" + ord + "]";
+	}
+	
+
+}

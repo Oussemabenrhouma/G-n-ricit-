@@ -1,0 +1,41 @@
+public class cercle {
+
+	private int rayon;
+	point centre;
+	
+	 
+
+	public int getRayon() {
+		return rayon;
+	}
+
+
+	public void setRayon(int rayon) {
+		this.rayon = rayon;
+	}
+
+
+	public t getCentre() {
+		return centre;
+	}
+
+
+	public void setCentre(t centre) {
+		this.centre = centre;
+	}
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

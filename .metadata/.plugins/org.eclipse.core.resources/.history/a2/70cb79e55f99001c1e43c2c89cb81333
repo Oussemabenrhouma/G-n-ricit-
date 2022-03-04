@@ -1,0 +1,7 @@
+
+public class point <t> {
+	private t abs;
+	private t ord;
+	
+
+}

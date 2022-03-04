@@ -1,0 +1,11 @@
+public class PointColoré <t,t1> extends point<t>{
+ 
+		t1 couleur;
+
+		public PointColoré(char nom, t abs, t ord) {
+			super(nom, abs, ord);
+			
+		}
+		
+	
+}

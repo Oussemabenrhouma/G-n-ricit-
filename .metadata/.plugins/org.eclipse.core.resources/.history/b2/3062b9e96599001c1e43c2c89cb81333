@@ -1,0 +1,18 @@
+
+public class PointColoréNG extends point<Integer>{
+	
+	String couleur;
+	
+	
+	public PointColoréNG(char nom, Integer abs, Integer ord) {
+		super(nom, abs, ord);
+		// TODO Auto-generated constructor stub
+	}
+
+
+	public PointColoreNG(nom,abs,ord,couleur)
+	{
+		super(nom,ord,abs);
+		this.couleur=couleur;
+	}
+}
